@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Natural Language Processing and Marketing Analytics"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Université Côte d'Azur, Marketing Department"
+date: January 2024
+location: "Nice, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Natural Language Processing and Machine Learning techniques to marketing students. Focus on computational methods to analyze text online.
 
-Heading 1
-======
+#Heading 1
+#======
 
-Heading 2
-======
+#Heading 2
+#======
 
-Heading 3
-======
+#Heading 3
+#======
