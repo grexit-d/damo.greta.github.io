@@ -1,7 +1,7 @@
 ---
 title: "Natural Language Processing and Marketing Analytics"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Université Côte d'Azur, Marketing Department"
 date: January 2024
