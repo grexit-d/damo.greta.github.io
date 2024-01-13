@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Research"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Université Côte d'Azur, Engineering Department"
+date: October-December 2023
+location: "Sophia Antipolis, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching students the basics of how to do scientific research.
 
-Heading 1
-======
+#Heading 1
+#======
 
-Heading 2
-======
+#Heading 2
+#======
 
-Heading 3
-======
+#Heading 3
+#======
